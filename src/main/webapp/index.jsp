@@ -13,9 +13,7 @@
   <meta name="viewport" content="width=device-width, user-scalable=no">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <head>
     <title>Checkit</title>
-  </head>
   <body>
     aaaaaaaaaaaaaaa
   </body>
